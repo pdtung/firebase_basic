@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "340805806696",
+    "firebase_url": "https://realtimedemo2.firebaseio.com",
+    "project_id": "realtimedemo2",
+    "storage_bucket": "realtimedemo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340805806696:android:757913c3e34c8a28",
+        "android_client_info": {
+          "package_name": "com.example.phand.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340805806696-mmedbg83i236cc97smrg5dtburjbaeas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phand.chatapp",
+            "certificate_hash": "6f1182c794c80b71f5441204865cd2792c56947a"
+          }
+        },
+        {
+          "client_id": "340805806696-cas9qrpmubt8j554ljs6o3626h56om0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0dEhQ3bX1Tf7Qd5YBL91fl2pNy1U9PMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340805806696-cas9qrpmubt8j554ljs6o3626h56om0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
